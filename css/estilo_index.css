@@ -1,0 +1,139 @@
+body{
+	background-color: #e6eaf2;
+	font-family: verdana, arial, sans-serif;
+	font-size: 11px;
+}
+		
+p{
+	font-family: verdana, arial, sans-serif;
+	font-size: 11px;
+	}
+		
+input{
+	font-family: verdana, arial, sans-serif;
+	font-size: 11px;
+	border: 1px solid #000;
+	margin: 5px
+	}
+		
+textarea{
+	font-family: verdana, arial, sans-serif;
+	font-size: 11px;
+	border: 1px solid #000;
+	margin: 5px
+	}
+			
+.indexLink{
+	display: block
+}
+		
+a:link{
+	color: #09c;
+	text-decoration: none
+}
+
+a:visited{
+	color: #07a;
+	text-decoration: none
+	}
+
+a:hover{
+	text-decoration: none;
+	background-color: white
+	}
+			
+a.button{
+	color: #000;
+	border: 1px solid slategray:
+	padding: 3px;
+	text-decoration: none;
+	background-color: #d4d0c8;
+	}
+			
+a.buttons:visited	{
+	color: #000;
+	border: 1px solid slategray;
+	padding: 3px;
+	text-decoration: none;
+	background-color: #d4d0c8;
+	}
+			
+a.buttons:hover	{
+	color: #000;
+	border: 1px solid slategray;
+	padding: 3px;
+	text-decoration: none;
+	background-color: #f0f0f0
+	}			
+			
+.holderSingle{
+	width: 500px;
+	margin: auto;
+	padding: 5px
+	}
+		
+.indexHolder{
+	width: 400px;
+	border: 1px solid slategray;
+	background-color: #cdd5e4;
+	padding: 2px;
+	margin: auto
+	}
+		
+.indexTitle{
+	font-family: arial, sans-serif;
+	font-size: 14px;
+	font-weight: bold;
+	padding: 4px;
+	border: 1px solid slategray;
+	background-color: #e6eaf2
+	}
+		
+.title{
+	border-top: 1px solid #fff;
+	border-right: 1px solid slategray;
+	border-bottom: 1px solid slategray;
+	border-left: 1px solid #fff;
+	padding: 5px;
+	font-weight: bold;
+	background-color: #cdd5e4;	
+	margin-top: 5px
+	}
+			
+.post-text{
+	border: 1px solid slategray;
+	padding: 5px;
+	background-color: #f0f0f0;
+	}
+			
+.formholder{
+	width: 400px;
+	margin: auto;
+	padding: 5px
+	}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+		

@@ -1,0 +1,112 @@
+* {margin:0; padding:0;}
+
+body {
+        font-family:Tahoma;
+        font-size:14px;
+        color:#fff;
+        background-color:#4A4A4A;
+}
+
+.box {
+        width:600px;
+        margin:10px auto;
+}
+
+.formulario {
+        float:left;
+        width:600px;
+}
+
+.formulario form label {
+        float:left;
+        width:580px;
+        padding:10px;
+        background:#333;
+        border:1px solid #ccc;
+}
+
+.formulario form label input, select{
+        float:left;
+        border-radius:5px;
+        -moz-border-radius:5px;
+        -webkit-border-radius:5px;
+        border:1px solid #ccc;
+        padding:5px;
+        margin:5px;
+        font-size:13px;
+}
+
+.formulario form label input[type="submit"]{
+        float:left;
+        border-radius:5px;
+        -moz-border-radius:5px;
+        -webkit-border-radius:5px;
+        border:1px solid #ccc;
+        padding:5px;
+        margin-left:50px;
+        width:100px;
+}
+
+.formulario form label input[type="submit"]:hover{
+        background:#ccc;
+        cursor:pointer;
+}
+
+.lista {
+        float:left;
+        width:580px;
+        margin-top:10px;
+        background:#333;
+        padding:10px;
+        border:1px solid #ccc;
+}
+
+.lista label {
+        float:left;
+        width: 560px;
+        color:#333;
+        background:#ccc;
+        padding:10px;
+        margin-bottom:10px;
+}
+
+.lista label .usuario {
+        float:left;
+        font-weight:bold;
+        margin-top:2px;
+}
+
+.lista label .ip {
+        float:right;
+        padding:5px;
+        background:#333;
+        color:#ccc;
+}
+
+.lista label .tipo {
+        float:right;
+        padding:5px;
+        background:#333;
+        color:#ccc;
+        margin-left:10px;
+}
+
+.lista ul {
+        float:right;
+}
+
+.lista ul li {
+        list-style-type:none;
+        margin-bottom:20px;
+        margin-left:2px;
+        margin-top:10px;
+}
+
+.lista ul li a{
+        text-decoration:none;
+        color:#fff;
+        margin-left:20px;
+        padding:10px;
+        background:#ccc;
+        color:#333;
+}
